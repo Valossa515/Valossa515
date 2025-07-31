@@ -49,6 +49,14 @@ Aplicação de uma API com java para uma loja de brinquedos/departamentos.
 
 ---
 
+### ☕ EasyTable (Java + Spring Boot + MongoDB + Redis + Kafka)
+
+Aplicação de uma API de cardapio eletronico usando spring boot
+
+🔗 [Repositório](https://github.com/Valossa515/easytable.api-V1)
+
+---
+
 ### 🎯 Box Organizer App (Angular)
 
 Aplicação web com Angular + Material para gerenciamento de caixas e itens.
