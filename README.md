@@ -1,32 +1,36 @@
 # 👋 Olá, eu sou o Felipe Martins!
 
-Bem-vindo(a) ao meu perfil! Sou um desenvolvedor apaixonado por tecnologia, automação e por criar soluções eficientes e com foco no cliente. Venho evoluindo minhas habilidades com foco em back-end, front-end e infraestrutura de aplicações modernas.
+Bem-vindo(a) ao meu perfil! Sou um desenvolvedor apaixonado por tecnologia, automação e por criar soluções eficientes e com foco no cliente. Atuo principalmente com back-end Java/Spring Boot, mantenho projetos open source e gosto de explorar arquitetura, observabilidade e ferramentas para times de engenharia.
 
 ---
 
 ## 🚀 Sobre mim
 
-- 💻 Trabalho com desenvolvimento de APIs RESTful e aplicações fullstack
-- ⚙️ Stack atual: `.NET 9`, `C#`, `Java`, `Node.js`, `React`, `Angular`, `MongoDB`, `MySQL`
+- ☕ Desenvolvedor back-end com foco em `Java 21` e `Spring Boot 3.x`
+- 📦 Mantenedor da biblioteca open source **Spring Courier** (CQRS/Mediator), publicada no Maven Central
+- 🔭 Observabilidade com `Micrometer`, `OpenTelemetry` e `Dynatrace`
+- 💻 Também trabalho com `.NET`, `C#`, `Node.js`, `React`, `Angular`, `MongoDB`, `MySQL`
 - 🔐 Autenticação e autorização com `JWT` e `Keycloak`
-- 🧪 Testes, CI/CD com Azure DevOps e automação de deploys
 - 🐳 Dockerização de aplicações, deploy em Azure App Service e AWS ECS
-- 📊 Experiência com automações em `Python`, `VBA` e dashboards com Power BI
+- 🤖 Experimentos com AI coding agents e skills estruturadas (Skill-Driven Development)
 - 🔄 Metodologias ágeis com uso de `Jira`, `Git` e boas práticas de versionamento
 
 ---
 
 ## 🧰 Tecnologias e Ferramentas
 
+![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-6DB33F?style=flat&logo=springboot&logoColor=white)
 ![C#](https://img.shields.io/badge/-C%23-239120?style=flat&logo=c-sharp&logoColor=white)
 ![.NET](https://img.shields.io/badge/-.NET-512BD4?style=flat&logo=dotnet&logoColor=white)
-![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=white)
 ![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat&logo=angular&logoColor=white)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Kafka](https://img.shields.io/badge/-Kafka-231F20?style=flat&logo=apachekafka&logoColor=white)
 ![Azure DevOps](https://img.shields.io/badge/-Azure%20DevOps-0078D7?style=flat&logo=azuredevops&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
 
@@ -34,34 +38,51 @@ Bem-vindo(a) ao meu perfil! Sou um desenvolvedor apaixonado por tecnologia, auto
 
 ## ✨ Projetos em Destaque
 
-### 🔧 Paperless API (.NET + MongoDB)
+### 📨 Spring Courier (Java + Spring Boot)
 
-Pequena aplicação que gera relatorio personalizados e persiste os dados mo MongoDB.
-🔗 [Repositório](https://github.com/Valossa515/PaperlessAPI.api)
+Biblioteca open source leve de CQRS/Mediator para Spring Boot, publicada no Maven Central. Commands, Queries, Notifications e Pipeline Behaviors com integração nativa ao ecossistema Spring.
 
----
-
-### ☕ FM Toy (Java + Spring Boot)
-
-Aplicação de uma API com java para uma loja de brinquedos/departamentos.
-
-🔗 [Repositório](https://github.com/Valossa515/FMToy)
+🔗 [Repositório](https://github.com/Valossa515/spring-courier)
 
 ---
 
-### ☕ EasyTable (Java + Spring Boot + MongoDB + Redis + Kafka)
+### 📉 Little Price Tracker (Java + TypeScript)
 
-Aplicação de uma API de cardapio eletronico usando spring boot
+Monitor de preços do Mercado Livre com agendamento de buscas periódicas e alertas por e-mail. Back-end em Java + front-end web em TypeScript — no ar em [littlepricetracker.observer](https://littlepricetracker.observer).
 
-🔗 [Repositório](https://github.com/Valossa515/easytable.api-V1)
+🔗 [Back-end](https://github.com/Valossa515/price-tracker) · [Front-end](https://github.com/Valossa515/price-tracker-web)
 
 ---
 
-### 🎯 Box Organizer App (Angular)
+### 🤖 SDD — Skill-Driven Development
 
-Aplicação web com Angular + Material para gerenciamento de caixas e itens.
+Metodologia e coleção de skills estruturadas para AI coding agents, cobrindo stacks Spring Boot 3.x e .NET 8/9, com CI, scripts de instalação e geração de TOML compatível com Kiro.
 
-🔗 [Repositório](https://github.com/Valossa515/box-organizer-apps)
+🔗 [Repositório](https://github.com/Valossa515/sdd)
+
+---
+
+### 🚦 Flow Guard Service (Java + Spring Boot)
+
+Microserviço de rate limit dinâmico exposto via API REST, independente de gateway.
+
+🔗 [Repositório](https://github.com/Valossa515/flow-guard-service)
+
+---
+
+### 💳 Paybridge API (Java + Spring Boot)
+
+API agnóstica de pagamento, desacoplando a aplicação dos provedores de pagamento.
+
+🔗 [Repositório](https://github.com/Valossa515/Paybridge-API)
+
+---
+
+### ✅ Task Manager Service (Java + Spring Courier)
+
+Microserviço de gerenciamento de tarefas construído com Spring Courier — exemplo prático de CQRS em produção usando a biblioteca.
+
+🔗 [Repositório](https://github.com/Valossa515/task-manager-service)
 
 ---
 
@@ -80,4 +101,3 @@ Aplicação web com Angular + Material para gerenciamento de caixas e itens.
 ---
 
 💡 *"A tecnologia é a ponte entre boas ideias e grandes transformações."*
-
