@@ -86,6 +86,14 @@ Microserviço de gerenciamento de tarefas construído com Spring Courier — exe
 
 ---
 
+### 🌦️ SkyPredict (Python)
+
+API de previsão meteorológica e sugestão de rotas.
+
+🔗 [Repositório](https://github.com/Valossa515/SkyPredict)
+
+---
+
 ## 📈 Estatísticas GitHub
 
 <!--
