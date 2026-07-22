@@ -88,8 +88,8 @@ Microserviço de gerenciamento de tarefas construído com Spring Courier — exe
 
 ## 📈 Estatísticas GitHub
 
-![Felipe's GitHub stats](https://github-readme-stats.vercel.app/api?username=Valossa515&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Valossa515&layout=compact&theme=radical)
+[![Felipe's GitHub stats](https://github-readme-stats.vercel.app/api?username=Valossa515&show_icons=true&theme=radical&count_private=true&hide_border=true&cache_seconds=86400)](https://github.com/Valossa515)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Valossa515&layout=compact&theme=radical&hide_border=true&cache_seconds=86400)](https://github.com/Valossa515)
 
 ---
 
