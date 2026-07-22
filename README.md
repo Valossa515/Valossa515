@@ -88,8 +88,15 @@ Microserviço de gerenciamento de tarefas construído com Spring Courier — exe
 
 ## 📈 Estatísticas GitHub
 
-[![Felipe's GitHub stats](https://github-readme-stats.vercel.app/api?username=Valossa515&show_icons=true&theme=radical&count_private=true&hide_border=true&cache_seconds=86400)](https://github.com/Valossa515)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Valossa515&layout=compact&theme=radical&hide_border=true&cache_seconds=86400)](https://github.com/Valossa515)
+<!--
+  Cards gerados automaticamente pela GitHub Action em .github/workflows/profile-summary-cards.yml
+  (github-profile-summary-cards). As imagens são SVGs estáticos commitados no repositório e
+  servidos pelo próprio GitHub — não dependem de serviços externos, então não quebram por rate limit.
+-->
+
+![Linguagens mais usadas](https://raw.githubusercontent.com/Valossa515/Valossa515/main/profile-summary-card-output/radical/1-repos-per-language.svg)
+![Linguagens com mais commits](https://raw.githubusercontent.com/Valossa515/Valossa515/main/profile-summary-card-output/radical/2-most-commit-language.svg)
+![Horários mais produtivos](https://raw.githubusercontent.com/Valossa515/Valossa515/main/profile-summary-card-output/radical/4-productive-time.svg)
 
 ---
 
