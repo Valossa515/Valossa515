@@ -15,6 +15,16 @@
 ### Each card usage
 ---
 
+![](./0-profile-details.svg)
+
+```
+![](https://raw.githubusercontent.com/Valossa515/Valossa515/github-statistics-issue-ilfnog/profile-summary-card-output/rose_pine/0-profile-details.svg)
+```
+
+    
+
+---
+
 ![](./1-repos-per-language.svg)
 
 ```
@@ -29,6 +39,16 @@
 
 ```
 ![](https://raw.githubusercontent.com/Valossa515/Valossa515/github-statistics-issue-ilfnog/profile-summary-card-output/rose_pine/2-most-commit-language.svg)
+```
+
+    
+
+---
+
+![](./3-stats.svg)
+
+```
+![](https://raw.githubusercontent.com/Valossa515/Valossa515/github-statistics-issue-ilfnog/profile-summary-card-output/rose_pine/3-stats.svg)
 ```
 
     

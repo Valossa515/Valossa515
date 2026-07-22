@@ -94,6 +94,8 @@ Microserviço de gerenciamento de tarefas construído com Spring Courier — exe
   servidos pelo próprio GitHub — não dependem de serviços externos, então não quebram por rate limit.
 -->
 
+![Perfil](https://raw.githubusercontent.com/Valossa515/Valossa515/main/profile-summary-card-output/radical/0-profile-details.svg)
+![Estatísticas](https://raw.githubusercontent.com/Valossa515/Valossa515/main/profile-summary-card-output/radical/3-stats.svg)
 ![Linguagens mais usadas](https://raw.githubusercontent.com/Valossa515/Valossa515/main/profile-summary-card-output/radical/1-repos-per-language.svg)
 ![Linguagens com mais commits](https://raw.githubusercontent.com/Valossa515/Valossa515/main/profile-summary-card-output/radical/2-most-commit-language.svg)
 ![Horários mais produtivos](https://raw.githubusercontent.com/Valossa515/Valossa515/main/profile-summary-card-output/radical/4-productive-time.svg)
